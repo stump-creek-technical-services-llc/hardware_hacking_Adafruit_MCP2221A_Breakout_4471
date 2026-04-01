@@ -1,79 +1,36 @@
-# ${DEV_TAG}
+# Adafruit MCP2221A Breakout 4471
 
-(photos)
-
-
-
-
-
-## Checklist
-
-- [ ] Reference materials
-    - [ ] Manufacturer docs
-    - [ ] Firmware updates
-    - [ ] OpenWRT support
-    - [ ] Pinouts
-- [ ] Factory reset
-- [ ] External documentation
-- [ ] Case opened
-- [ ] Internal documentation
-- [ ] Dumped ROM .reset
-- [ ] Extracted FW parts, inspected
-- [ ] Factory reset with boot
-- [ ] Dumped ROM regular
-- [ ] Booted
-- [ ] Root shell
-- [ ] Pull stats
-    - [ ] `uname -a`
-    - [ ] `busybox --help`
-    - [ ] `cat /proc/mtd`
-
-## Critical Info
-
-(photo)
-
-External label:
-
-```text
-Serial no.: 
-Input Voltage: XX VDC: XX A -@+
-```
+[Adafruit MCP2221A Breakout - General Purpose USB to GPIO ADC I2C - Stemma QT / Qwiic](https://www.adafruit.com/product/4471)
 
 ## Reference material:
 
-* [Product Link]()
+* [Product Link](https://www.adafruit.com/product/4471)
+* [Schematics, etc](https://learn.adafruit.com/circuitpython-libraries-on-any-computer-with-mcp2221/downloads)
 * [Firmware update]()
 * [Open firmware]()
 
-## Opening
-
-(Screws?)
-
 ## Board
 
-Markings:
+![board_top.jpg](photos/board_top.jpg)
 
-```text
-
-```
+![board_bottom.jpg](photos/board_bottom.jpg)
 
 ### Chip
 
-(photo)
+![chip_Microchip_MCP221A.jpg](photos/chip_Microchip_MCP221A.jpg)
 
-Package
+Package QFN-16
 
 Markings:
 
 ```text
+2221A
+ML E3
+03905P
 ```
 
-[Datasheet]
-
-Description (source):
-
-
+[Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005292C.pdf)
 
 ## Firmware
 
-## Conclusion: ?
+There is probably a bit of firmware, but I didn't mess with it.
