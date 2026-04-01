@@ -15,9 +15,9 @@
 
 ![board_bottom.jpg](photos/board_bottom.jpg)
 
-### Chip
+### Microchip MCP2221A
 
-![chip_Microchip_MCP221A.jpg](photos/chip_Microchip_MCP221A.jpg)
+![chip_Microchip_MCP2221A.jpg](photos/chip_Microchip_MCP2221A.jpg)
 
 Package QFN-16
 
